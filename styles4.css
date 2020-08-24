@@ -1,0 +1,337 @@
+.x1{
+background-image: url('https://cdn.shopify.com/s/files/1/0947/6150/products/WMShay_Cochrane_Minimalist_Neutral_Desktop_Styled_Stock_Photography_05_2048x2048.jpg?v=1470155412');
+height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  padding-bottom: 220px;}
+
+.x2{
+  padding-top: 80px;
+  padding-right: 90px;
+  padding-left: 90px;
+  text-align: center;
+}
+nav{
+color: black
+}
+
+.form-box {
+  max-width: 500px;
+  margin: auto;
+  padding: 50px;
+  background: #ffffff;
+  border: 10px solid #f2f2f2;
+}
+
+h1, p {
+  text-align: center;
+}
+
+input, textarea {
+  width: 100%;
+}
+.btn{
+  margin-top: 30px;
+padding: 12px 28px;
+border-radius: 10px;}
+.x3{
+  text-align: center;
+  padding-top: 30px;
+padding-bottom: 30px;}
+.x4{
+  height: 110px;;
+}
+.x5{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.skills{
+  padding-bottom: 40px;
+
+  margin: 60px auto;
+  color: silver;
+ background-image: linear-gradient(grey);
+
+}
+.skills li{
+  margin: 20px 0;
+}
+
+.bar{
+  background: #353b48;
+  display: block;
+  height: 4px;
+  border: 1px solid rgba(0,0,0,0.3);
+  border-radius: 3px;
+  overflow: hidden;
+  box-shadow: 0 0 10px #2187e7b3;
+}
+
+
+.bar span{
+  height: 5px;
+  float: left;
+  background: white;
+}
+.html{
+  width: 90%;
+animation: html 2s;
+}
+.css{
+  width: 85%;
+  animation: css 2s;
+}
+
+.js{
+  width: 75%;
+animation: js 2s;
+}
+@keyframes html {
+0%{
+  width: 0%;}
+  100%{
+    width: 90%;
+  }
+}
+@keyframes css {
+0%{
+  width: 0%;}
+  100%{
+    width: 85%;
+  }
+}
+
+@keyframes js {
+0%{
+  width: 0%;}
+  100%{
+    width: 75%;
+  }
+}
+
+.x6{height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  background-image:url('img3.jpg');
+}
+
+#wrapper ul{
+  list-style: none;
+}
+
+#wrapper ul li{
+  font-size: 20px;
+  background-image: url('capture2.png');
+background-repeat:no-repeat;
+background-position: left 50%;
+padding-left: 80px;}
+
+
+#wrapper3 ul{
+  list-style: none;
+}
+
+#wrapper3 ul li{
+  font-size: 20px;
+  background-image: url('capture3.png');
+background-repeat:no-repeat;
+background-position: left 50%;
+padding-left: 80px;}
+
+#wrapper1 ul{
+  list-style: none;
+}
+
+#wrapper1 ul li{
+  font-size: 20px;
+  background-image: url('capture5.png');
+background-repeat:no-repeat;
+background-position: left 50%;
+padding-left: 80px;}
+
+#wrapper2 ul{
+  list-style: none;
+}
+
+#wrapper2 ul li{
+  font-size: 20px;
+  background-image: url('capture3.png');
+background-repeat:no-repeat;
+background-position: left 50%;
+padding-left: 80px;}
+
+#key{
+  padding: 60px 60px 60px 60px;
+
+  background-color: #3b6978;
+}
+
+
+.x7{
+  text-align:center;
+}
+
+
+#demo {
+  height:100%;
+  position:relative;
+  overflow:hidden;
+}
+
+.x17{
+  background-color: black;
+}
+.green{
+  background-color:#6fb936;
+}
+        .thumb{
+            margin-bottom: 30px;
+        }
+
+        .page-top{
+            margin-top:85px;
+        }
+
+
+img.zoom {
+    width: 100%;
+    height: 200px;
+    border-radius:5px;
+    object-fit:cover;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+}
+
+
+.transition {
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+}
+    .modal-header {
+
+     border-bottom: none;
+}
+    .modal-title {
+        color:#000;
+    }
+    .modal-footer{
+      display:none;
+    }
+.x12{
+  text-align: center;
+  padding: 70px 50px 70px 50px;
+}
+
+#features {
+  position: relative;
+background-color: #eeeeee;
+text-align: center;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.icon {
+  color: #222831;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+#testimonials {
+  background-color: #f2f2f0;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.testimonial-text {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+#press {
+  padding-top: 3%;
+  text-align: center;
+  background-color: black;
+  padding-bottom: 3%;
+  color:white;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 20px;
+}
+
+
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.press-logo1 {
+width: 20%;
+margin: 20px 20px 20px;
+margin-right: 35px;
+}/* Pricing Section */
+#cta{
+  background-image:url(https://ascential.co/wp-content/uploads/2017/06/space-dark-min.jpg);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  color:silver;}
+#pricing {
+  padding: 100px;
+  background-color: #f2f2f0;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#navbarTogglerDemo02{
+  color: silver;
+}
+
+
+#press {
+  padding-top: 3%;
+  text-align: center;
+  background-color: black;
+  padding-bottom: 3%;
+  color:white;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 20px;
+}
